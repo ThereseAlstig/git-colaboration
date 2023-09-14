@@ -3,6 +3,7 @@ header {
   height: 100px;
   background-color: peachpuff;
   border: 1px black solid;
+  text-align: center;
 }
 
 footer {
@@ -10,10 +11,15 @@ footer {
   height: 100px;
   background-color: pink;
   border: 1px black solid;
+  text-align: center;
 }
+
 
 .testing1{
 
 background-color: black;
 color: aliceblue;
 }
+
+
+main
