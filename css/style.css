@@ -1,9 +1,14 @@
 header {
+  width: 960px;
+  height: 100px;
   background-color: peachpuff;
+  border: 1px black solid;
 }
 
 footer {
   width: 960px;
+  height: 100px;
+  background-color: pink;
   border: 1px black solid;
 }
 
