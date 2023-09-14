@@ -1,3 +1,8 @@
 header {
   background-color: peachpuff;
 }
+
+footer {
+  width: 960px;
+  border: 1px black solid;
+}
